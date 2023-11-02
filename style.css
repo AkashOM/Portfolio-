@@ -11,6 +11,11 @@
     font-family: 'poppins', sans-serif;
 }
 
+body{
+    width:100vw;
+    overflow-x:hidden;
+}
+
 .logo-img {
     width: 26%;
 }
